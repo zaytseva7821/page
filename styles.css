@@ -1,0 +1,49 @@
+.cursive {
+    font-style: italic;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.indent {
+    text-indent: 0.5cm;
+    font-size: larger;
+}
+
+.largesize {
+    font-size: large;
+}
+.indent1 {
+    text-indent: 0.5cm;
+    font-size: large;
+}
+
+.img400
+{
+    position: relative;
+    left: 10cm;
+    height: 400px;
+    margin: 20px;
+}
+.img400_1
+{
+    position: relative;
+    left: 11cm;
+    height: 400px;
+    margin: 20px;
+}
+
+.head{
+    text-align: center;
+    background-color:darkred;
+    color: mintcream;
+}
+
+.color{
+    background-color:antiquewhite;
+}
